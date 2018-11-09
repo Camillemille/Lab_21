@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "SimpleAdder";
+}
+
+<h2>SimpleAdder</h2>
+@{ 
+    var totalMessage = "";
+    if (IsPost)
+    {   <!--getting informtion from text1 and text 2-->
+        var num1 = Request["text1"];
+        var num2 = Request["text2"];
+        var total = num1.AsInt() + num2.AsInt();
+        totalMessage = "Total = " + total;<!--Makes a string that has the total number added together-->
+
+    }
+}
+<form action=""method="post">
+    <p>
+        <label for="text">First Number</label><br />
+        <input type="text" name="text1" />
+
+    </p>
+    <p>
+        <label for="text2">second number</label><br />
+        <input type="text" name="text2" />
+    </p>
+    @*If you want them on the same line get rid of the break*@
+    <p>
+        <input type="submit" value="Add "/>
+    </p>
+    <p>@totalMessage</p>
+
+</form>
+

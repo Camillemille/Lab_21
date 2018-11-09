@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\Exercise14\bin\Debug\Exercise14.exe.config
+C:\Users\camil\source\repos\Exercise14\bin\Debug\Exercise14.exe
+C:\Users\camil\source\repos\Exercise14\bin\Debug\Exercise14.pdb
+C:\Users\camil\source\repos\Exercise14\obj\Debug\Exercise14.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\Exercise14\obj\Debug\Exercise14.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Exercise14\obj\Debug\Exercise14.exe
+C:\Users\camil\source\repos\Exercise14\obj\Debug\Exercise14.pdb

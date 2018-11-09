@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\enum practice\bin\Debug\enum practice.exe.config
+C:\Users\camil\source\repos\enum practice\bin\Debug\enum practice.exe
+C:\Users\camil\source\repos\enum practice\bin\Debug\enum practice.pdb
+C:\Users\camil\source\repos\enum practice\obj\Debug\enum practice.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\enum practice\obj\Debug\enum practice.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\enum practice\obj\Debug\enum practice.exe
+C:\Users\camil\source\repos\enum practice\obj\Debug\enum practice.pdb

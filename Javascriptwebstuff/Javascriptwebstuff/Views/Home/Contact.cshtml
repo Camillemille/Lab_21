@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+<h3>@ViewBag.Confirm</h3>
+
+<h2>@ViewBag.Camille </h2>
+
+<form action="/Home/SubmitEmail" method="post">
+    <label>email:
+    <input type="email" name="email" id="email" onkeyup="check_match()"/> 
+    <br/>
+    </label>
+    <label>
+        confirm email:
+        <input type="email" name="confirmemail" id="confirmemail" onkeyup="check_match()" /> <!--onkeyup="check_match()"checks that what the user types in is correct-->
+        
+        <span id="message"></span><!---->
+    </label>
+    <br/>
+    <input type="submit" value="Submit"/>
+    
+    
+</form>
+<script src="~/Scripts/CamilleScript.js"></script>

@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\Files\bin\Debug\Files.exe.config
+C:\Users\camil\source\repos\Files\bin\Debug\Files.exe
+C:\Users\camil\source\repos\Files\bin\Debug\Files.pdb
+C:\Users\camil\source\repos\Files\obj\Debug\Files.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Files\obj\Debug\Files.exe
+C:\Users\camil\source\repos\Files\obj\Debug\Files.pdb

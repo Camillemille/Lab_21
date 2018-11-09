@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\Exercise13\bin\Debug\Exercise13.exe.config
+C:\Users\camil\source\repos\Exercise13\bin\Debug\Exercise13.exe
+C:\Users\camil\source\repos\Exercise13\bin\Debug\Exercise13.pdb
+C:\Users\camil\source\repos\Exercise13\obj\Debug\Exercise13.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\Exercise13\obj\Debug\Exercise13.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Exercise13\obj\Debug\Exercise13.exe
+C:\Users\camil\source\repos\Exercise13\obj\Debug\Exercise13.pdb

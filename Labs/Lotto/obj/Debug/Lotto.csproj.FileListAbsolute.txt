@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\camil\source\repos\Lotto\bin\Debug\Lotto.exe
+C:\Users\camil\source\repos\Lotto\bin\Debug\Lotto.pdb
+C:\Users\camil\source\repos\Lotto\obj\Debug\Lotto.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Lotto\obj\Debug\Lotto.exe
+C:\Users\camil\source\repos\Lotto\obj\Debug\Lotto.pdb
